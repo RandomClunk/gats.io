@@ -15,5 +15,6 @@ To try out a challenge, paste the code from the desired challenge into your brow
 ---
 ### Challenges
 | Name | Category | Description |
-| ---- | -------- | ----------- |
+| ---- | --- | --- |
 | no-walls | visual | Makes all walls invisible. Make sure to run the script before spawning in. |
+| sticky-keys | input | 25% of your keypress's wont register. |
