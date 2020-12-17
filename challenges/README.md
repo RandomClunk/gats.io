@@ -12,3 +12,8 @@ To try out a challenge, paste the code from the desired challenge into your brow
 ### Categories
 #### visual - This folder contains challenges that modify the graphics of the game somehow
 #### input - This folder contains challenges that mess up/change keybinds
+---
+### Challenges
+| Name | Category | Description |
+| ---- | -------- | ----------- |
+| no-walls | visual | Makes all walls invisible. Make sure to run the script before spawning in. |
