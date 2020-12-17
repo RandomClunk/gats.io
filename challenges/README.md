@@ -18,3 +18,4 @@ To try out a challenge, paste the code from the desired challenge into your brow
 | ---- | --- | --- |
 | no-walls | visual | Makes all walls (and medkits as well as shields) invisible. Make sure to run the script before spawning in. |
 | sticky-keys | input | 25% of your keypress's wont register. |
+| silenced-bullets | visual | Silences all bullets. I guess thermal just got more useful. |
