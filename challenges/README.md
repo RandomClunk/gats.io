@@ -3,6 +3,8 @@
 ---
 To try out a challenge, paste the code from the desired challenge into your browsers console.
 
+## FAQ
+
 > What is the console? https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools
 
 > How do I open the console??????? https://balsamiq.com/support/faqs/browserconsole/
