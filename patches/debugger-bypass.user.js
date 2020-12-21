@@ -6,5 +6,5 @@
 // ==/UserScript==
 
 window.addEventListener('load', () => {
-  _0x115e[_0x115e.indexOf('debu')] = '';
+  _0x3574[_0x3574.indexOf('debu')] = '';
 });
