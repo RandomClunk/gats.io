@@ -8,5 +8,5 @@ ___
 * There are 750 walls on every map
 * 200 of these walls are blue/`longCrate`s
 * 550 of these walls are brown/`crate`s
-* Blue walls/`longCrate`s only spawn within 1000, 1000, to 6000, 6000
+* Blue walls/`longCrate`s only spawn from (1000, 1000), to (6000, 6000)
 * In all `DOM` maps, the bottom left point/base always has empty space going straight down to the border
