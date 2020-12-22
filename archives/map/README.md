@@ -1,8 +1,8 @@
-# map
-Under the `map` folder you will find archives of all the map's wall data. They are sorted into folders with the follwoing format `REGION-GAMEMODE`. The files names are the dates (EST) when the archives were taken.
-
+### About
+Under this folder you will find archives of the wall data. They are sorted into folders with the follwoing format `REGION-GAMEMODE`. The files names are the dates (EST) when the archives were taken.
+___
 > When using the data, make sure to remember that the `x` and `y` are the center of the shape and not the top left.
-
+___
 ### Interesting information:
 * The map size is 7000x7000
 * There are 750 walls on every map
