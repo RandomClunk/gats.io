@@ -8,3 +8,4 @@ Next, press the <kbd>Raw</kbd> button and tampermonkey should detect the `.user.
 | ---  | ---         |
 | console-backup | Stores a reference to `window.console.log` and sets it back when the page loads. Now you can see the logs of the game. |
 | debugger-bypass | Bypasses the ANNOYING debugger. **Note:** If you have devtools open and refresh, the debugger WILL trigger. Simply close devtools and then reopen. |
+| multiboxing | Allows you to control multiple players. You also get free aimbot. |
