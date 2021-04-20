@@ -5,6 +5,14 @@
 // @grant       none
 // ==/UserScript==
 
-window.addEventListener('load', () => {
-  _0x3532[_0x3532.indexOf('debu')] = '';
-});
+// store reference to original `setInterval` function
+const originalSetInterval = window.setInterval;
+
+// replace the global function with a proxy
+window.setInterval = function(f) {
+  // if the function passed to `setInterval` contains a call to the function that calls the debugger statement, return
+  if (String(f).includes('_0xfd7afe();')) return;
+  
+  // do what the original `setInterval` would have done
+  return originalSetInterval.apply(null, arguments);
+};
